@@ -1,0 +1,8 @@
+# This file has been created using the package pipreqs with the command "pipreqs . --encoding=utf-8 --force"
+
+python-dotenv==1.2.2
+python_magic==0.4.27
+Requests==2.34.2
+vt_py==0.22.0
+watchdog==6.0.0
+yara_python==4.5.4
