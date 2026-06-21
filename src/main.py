@@ -1,4 +1,4 @@
-import os # We import the packages
+import os # We import the packages and modules
 import scans
 import time
 from watchdog.observers import Observer
