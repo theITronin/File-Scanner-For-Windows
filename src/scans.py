@@ -1,4 +1,4 @@
-import vt # We import the packages
+import vt # We import the packages and modules
 import requests
 import os
 import report_txt as report_txt
